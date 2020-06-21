@@ -1,3 +1,7 @@
+.flex-1 {
+  flex: 1 !important;
+}
+
 .flat,
 .flat:hover,
 .flat:focus {
@@ -9,12 +13,14 @@
   width: 100%;
 }
 
-.flex-1 {
-  flex: 1 !important;
+.is-completed {
+  text-decoration: line-through;
+  color: #2c3e5088;
 }
 
 .icon {
   width: 30px;
+  text-align: center;
 }
 
 .round {
