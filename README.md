@@ -2,4 +2,4 @@
 
 [Demo](https://thanhchungbtc.github.io/vue-composition-todo/)
 
-![screenshot](./screenshot/vue-composition-todo-demo.gif)
+![screenshot](./screenshot/screen1.png)
